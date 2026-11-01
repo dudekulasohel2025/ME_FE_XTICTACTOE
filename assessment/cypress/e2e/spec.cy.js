@@ -1,6 +1,6 @@
 describe("Tic-Tac-Toe App", () => {
   beforeEach(() => {
-    cy.visit("http://localhost:5173"); // change to your app URL
+    cy.visit("https://mefextictactoe.vercel.app/"); // change to your app URL
   });
   
   it("UI renders: title, , initial scores", () => {

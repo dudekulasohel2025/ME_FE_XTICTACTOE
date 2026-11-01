@@ -1,0 +1,4 @@
+{
+    "Test Case 1: Tic-Tac-Toe App - UI renders: title, , initial scores": "TEST_STATUS_SUCCESS",
+    "Test Case 2: Tic-Tac-Toe App - UI renders: Restart Round, Reset All Buttons": "TEST_STATUS_SUCCESS"
+}
